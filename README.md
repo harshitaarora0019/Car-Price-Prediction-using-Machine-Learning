@@ -3,35 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Car Price Prediction using Machine Learning</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            line-height: 1.6;
-            color: #333;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 15px;
-        }
-        th, td {
-            border: 1px solid #ccc;
-            padding: 10px;
-            text-align: left;
-        }
-        th {
-            background-color: #f5f5f5;
-        }
-        img {
-            max-width: 100%;
-            border: 1px solid #ddd;
-            margin-top: 10px;
-        }
-    </style>
+  
 </head>
 <body>
 
@@ -81,7 +53,7 @@ The system learns from historical car data and estimates prices based on multipl
 <h2>Visual Output</h2>
 
 <h3>Car Age vs Selling Price</h3>
-<img src="Car Age vs Selling Price.png" alt="Car Age vs Selling Price">
+<img src="Car Age vs Selling Pric.png" alt="Car Age vs Selling Price">
 
 <h3>Selling Price Distribution</h3>
 <img src="Selling Price Distribution.png" alt="Selling Price Distribution">
